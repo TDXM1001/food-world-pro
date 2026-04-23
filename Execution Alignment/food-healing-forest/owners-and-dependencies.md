@@ -152,3 +152,5 @@
 
 1. 统一从 [dev-handoff-package-index.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-package-index.md>) 进入本次接包材料
 2. 按 [dev-handoff-meeting-template.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-meeting-template.md>) 在移交会上确认范围、字段、依赖和行动项
+3. 后端可优先使用 [backend-handoff-brief.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/backend-handoff-brief.md>) 快速进入本轮服务端范围
+4. 如果要判断是否已经能正式拆后端任务，再用 [backend-task-splitting-prereq-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/backend-task-splitting-prereq-checklist.md>) 做一次门槛检查
