@@ -29,6 +29,12 @@
 - 关键页面稿
 - 组件与样式规范
 - 交互说明
+- 原型文档：
+  - [prototype-overview.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/prototype-overview.md>)
+  - [mini-program-wireframes.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/mini-program-wireframes.md>)
+  - [admin-console-wireframes.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/admin-console-wireframes.md>)
+  - [page-inventory.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/page-inventory.md>)
+  - [interface-field-placeholders.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/interface-field-placeholders.md>)
 
 ### 依赖
 - 产品冻结页面结构
@@ -130,3 +136,19 @@
 - 数据回收验证
 - 隐私与风控说明
 
+## 8. 开发移交时各角色的接包顺序建议
+
+### 产品
+
+1. 先确认 [prd.md](</e:/my-project/food-world-pro/Project Requirements/food-healing-forest/prd.md>) 与 [version-split.md](</e:/my-project/food-world-pro/Release Planning/food-healing-forest/version-split.md>) 已是最终移交口径
+2. 再确认 [m1-review-record-template.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m1-review-record-template.md>) 与 [dev-handoff-readiness-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-readiness-checklist.md>) 已完成
+
+### 设计
+
+1. 先确认 [prototype-overview.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/prototype-overview.md>)、[mini-program-wireframes.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/mini-program-wireframes.md>)、[admin-console-wireframes.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/admin-console-wireframes.md>) 已回写到最新结论
+2. 再确认 [page-inventory.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/page-inventory.md>) 不存在越界页面
+
+### 前后端与测试
+
+1. 统一从 [dev-handoff-package-index.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-package-index.md>) 进入本次接包材料
+2. 按 [dev-handoff-meeting-template.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-meeting-template.md>) 在移交会上确认范围、字段、依赖和行动项

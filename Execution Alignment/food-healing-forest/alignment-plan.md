@@ -77,6 +77,12 @@
 - 关键页面线框图
 - 状态流转说明
 - 组件清单与设计规范
+- 原型文档参考：
+  - [prototype-overview.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/prototype-overview.md>)
+  - [mini-program-wireframes.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/mini-program-wireframes.md>)
+  - [admin-console-wireframes.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/admin-console-wireframes.md>)
+  - [page-inventory.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/page-inventory.md>)
+  - [interface-field-placeholders.md](</e:/my-project/food-world-pro/Design Freeze/food-healing-forest/interface-field-placeholders.md>)
 
 ## 工作流 C：用户端开发
 
@@ -201,10 +207,21 @@
 - 线框与流程评审
 - 接口与状态评审
 - 联调验收评审
+- 评审与移交参考：
+  - [m1-review-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m1-review-checklist.md>)
+  - [dev-handoff-readiness-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-readiness-checklist.md>)
+  - [m1-review-record-template.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m1-review-record-template.md>)
+  - [m1-post-review-writeback-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m1-post-review-writeback-checklist.md>)
 
 ### 变更规则
 - 任何新增需求，先判断是否进入 MVP 闭环
 - 不属于 MVP 闭环增强的，默认进入后续版本池
+
+## 10. 开发移交参考
+
+- 正式移交前先通过 [dev-handoff-readiness-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-readiness-checklist.md>)
+- 移交材料统一按 [dev-handoff-package-index.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-package-index.md>) 整理
+- 开发移交会建议直接使用 [dev-handoff-meeting-template.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/dev-handoff-meeting-template.md>)
 
 ## 8. 当前最关键的阻塞点
 
@@ -218,4 +235,3 @@
 - 不建议现在直接排研发人日或甘特图。
 - 先完成 `M0` 和 `M1`，再进入具体执行节奏安排。
 - 如果 `饭后提醒` 无法稳定实现，需要立刻回到版本边界，调整 MVP 的验证方式。
-
