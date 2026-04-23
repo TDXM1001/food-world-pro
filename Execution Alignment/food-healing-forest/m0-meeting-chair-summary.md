@@ -78,6 +78,7 @@
 - 必要时回写 [version-split.md](</e:/my-project/food-world-pro/Release Planning/food-healing-forest/version-split.md>)
 - 用 [m0-decision-template.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m0-decision-template.md>) 记录最终结论
 - 按 [m0-post-meeting-writeback-checklist.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m0-post-meeting-writeback-checklist.md>) 逐项回写正式文档
+- 如需会前先统一建议口径，可直接参考 [m0-recommended-decision-draft.md](</e:/my-project/food-world-pro/Execution Alignment/food-healing-forest/m0-recommended-decision-draft.md>)
 
 ## 7. 本次会议通过条件
 
